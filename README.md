@@ -6,5 +6,5 @@
   - Website: [void-echo.github.io](https://void-echo.github.io/)
   - Email: void@mail.sdu.edu.cn 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=void-echo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true)
 
