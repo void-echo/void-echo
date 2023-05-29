@@ -1,3 +1,5 @@
+## Void Echo ![](https://komarev.com/ghpvc/?username=void-echo)
+
 - 👋 Hi, I’m @void-echo from Shandong University.
 - 👀 I’m interested in Software Engineering and AI.
 - 🌱 I’m currently learning AI assisted Bioinformatics.
