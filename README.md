@@ -10,6 +10,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=void-echo&count_private=true&show_icons=true&theme=transparent)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=void-echo&layout=compact&hide=javascript,html,css,scss,typescript,xml)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=void-echo&layout=compact&hide=javascript,html,c,css,scss,typescript,xml)](https://github.com/anuraghazra/github-readme-stats)
 
 
