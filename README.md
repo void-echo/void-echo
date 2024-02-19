@@ -8,6 +8,8 @@
   - Website: [wangding.site](https://wangding.site)
   - Email: wd_cas@163.com
 
-![](https://github-readme-stats.vercel.app/api?username=void-echo&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=void-echo&count_private=true&show_icons=true&theme=transparent)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=void-echo&layout=compact&hide=javascript,html,css,scss,typescript,xml)](https://github.com/anuraghazra/github-readme-stats)
 
 
