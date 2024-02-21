@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on LLM.
 - 📫 How to reach me 
   - Website: [wangding.site](https://wangding.site)
-  - Email: wd_cas@163.com
+  - Email: scholarwd@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=void-echo&count_private=true&show_icons=true&theme=transparent)
 
