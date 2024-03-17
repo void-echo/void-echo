@@ -1,11 +1,11 @@
 ## Void Echo ![](https://komarev.com/ghpvc/?username=void-echo)
 
-- 👋 Hi, I’m Ding Wang from Shandong University, and coming to NLPR-CRIPAC, CAS for my Master's degree.
+- 👋 Hi, I’m [Ding Wang](wangding.site) from Shandong University, and coming to NLPR-CRIPAC, CAS for my Master's degree.
 - 🌱 I’m interested in NLP, LLM, LVLM, Model Accelerating, Bioinformatics, Molecular AI, etc.
 - 💞️ I’m looking to collaborate on LLM & Representation Learning.
 - 📫 How to reach me 
   - Website: [wangding.site](https://wangding.site)
-  - Email: scholarwd@gmail.com
+  - Email: scholarwd@gmail.com ; wdlife@outlook.com ; wd_cas@163.com
 
 ![](https://github-readme-stats.vercel.app/api?username=void-echo&count_private=true&show_icons=true&theme=transparent)
 
